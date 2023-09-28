@@ -15,4 +15,4 @@ For this assignment, I relied on the following class examples
   
   - 07-Stu_Census_Pt1
   
-I also met with Danielle Dubash from our class to talk through our code and work out smaller issues. 
+I also met with Danielle Dubash from our class to talk through our code and work out smaller issues. I used this website (https://software-solutions-online.com/vba-range-variable-row-number/) for help using the Range function, and this website (https://learn.microsoft.com/en-us/office/vba/api/excel.worksheetfunction.max) for clarity on the maximum and minimum functions. 
