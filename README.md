@@ -1,4 +1,4 @@
-# stock-analysis
+# VBA-Challenge: Stock Analysis
 
 Sources:
 For this assignment, I relied on the following class examples
